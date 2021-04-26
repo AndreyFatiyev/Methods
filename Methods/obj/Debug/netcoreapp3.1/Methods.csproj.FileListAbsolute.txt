@@ -1,0 +1,13 @@
+D:\Fatiyev\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+D:\Fatiyev\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+D:\Fatiyev\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+D:\Fatiyev\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+D:\Fatiyev\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+D:\Fatiyev\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+D:\Fatiyev\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+D:\Fatiyev\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+D:\Fatiyev\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+D:\Fatiyev\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+D:\Fatiyev\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+D:\Fatiyev\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+D:\Fatiyev\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache
